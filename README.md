@@ -12,4 +12,4 @@ My Mini Project
 
 ### Quiz [here](https://github.com/watripledouble/My-Mini-Project-with-Javascript/tree/main/Javascript/Quiz)!
 
-![Quiz](https://i.pinimg.com/originals/94/30/ce/9430ce3ff3f375b6ae13e9ebb953e286.jpg)
+![Quiz](https://i.pinimg.com/564x/c2/85/35/c28535d4c9368155dec05ca85e7e47ad.jpg)
